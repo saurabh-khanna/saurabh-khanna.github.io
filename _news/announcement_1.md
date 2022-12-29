@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-03
 inline: true
 ---
 
-A simple inline announcement.
+Preprint analyzing geographic, linguistic, and disciplinary bibliodiversity released. [More here](https://twitter.com/juancommander/status/1569792830725554182?s=20&t=XmkCpcPfOL6hGC7BfKDvKA).

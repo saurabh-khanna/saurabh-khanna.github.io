@@ -1,12 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - saurabh-khanna
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sonder-labs/sonder
+  - saurabh-khanna/ipl-lirs
+  - saurabh-khanna/metaanalysis
+  - saurabh-khanna/pkp
+  - saurabh-khanna/teacher-like-me
+  - saurabh-khanna/active-learning
+  - saurabh-khanna/creativity
+  - saurabh-khanna/beall-live
+  - saurabh-khanna/educ-sn
+  - saurabh-khanna/gse-git-workshop

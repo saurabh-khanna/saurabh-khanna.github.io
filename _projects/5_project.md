@@ -1,80 +1,12 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: "A Revolution in Information Warfare"
+description: "<b>PI: Prof Alex Pentland (MIT Media Lab)</b><br/>Analyzing the unprecedented actions to restrict the flow of information and shape
+messaging surrounding the 2022 Russian invasion of Ukraine"
+img: /assets/img/infowars.png
+redirect: 
+importance: 5
+category: academic
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Freedom of speech and the press on the World Wide Web has been a central feature of the Information Age. In this paper, we analyze the unprecedented actions to restrict the flow of information and shape messaging surrounding the 2022 Russia-Ukraine war. We study the media narratives promoted by the Russian government and its affiliates online in the aftermath of Russia's invasion of Ukraine, and consider the impact of interventions by Russian and Western state and non-state actors to censor opposing narratives: the European Union's decision to revoke the broadcasting licenses of the Russia state-affiliated media (RSM) outlets RT and Sputnik, Russia's efforts to restrict the use of the term `war' through introducing criminal penalties, the Kremlin's decision to throttle the websites of, and then ban, Western social media platforms, and, finally, the labeling, deamplification, and deplatforming of RSM-managed accounts on popular OSNs. Using a cross-platform dataset covering two search engines and three OSNs, we conduct a novel analysis of the effects of these interventions on the information ecosystem. We find that Moscow's fear-based restriction on the use of censored terms was successful, whereas IP throttling and platform bans in Russia were largely ineffective. In the West, platform interventions achieved limited success within the EU, but did not have a discernible impact on a global scale.
