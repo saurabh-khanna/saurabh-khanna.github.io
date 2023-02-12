@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-03
+date: 2023-02-07
 inline: true
 ---
 
-Preprint analyzing geographic, linguistic, and disciplinary bibliodiversity released. [More here](https://twitter.com/juancommander/status/1569792830725554182?s=20&t=XmkCpcPfOL6hGC7BfKDvKA).
+Paper analyzing geographic, linguistic, and disciplinary bibliodiversity released. [Media coverage](https://blogs.lse.ac.uk/impactofsocialsciences/2023/02/07/beyond-web-of-science-and-scopus-there-is-already-an-open-bibliodiverse-world-of-research-we-ignore-it-at-our-peril/).
