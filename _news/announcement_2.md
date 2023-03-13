@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-09-12 07:59:00-0400
+date: 2023-02-07
 inline: true
 ---
 
-Fellowship awarded at The Stanford Institute for Human-Centered AI. [More here.](https://twitter.com/StanfordHAI/status/1569415593853591553?s=20&t=abh3-4MdZ3mCIBugi99kkA)
+Paper analyzing geographic, linguistic, and disciplinary bibliodiversity released. [Media coverage](https://blogs.lse.ac.uk/impactofsocialsciences/2023/02/07/beyond-web-of-science-and-scopus-there-is-already-an-open-bibliodiverse-world-of-research-we-ignore-it-at-our-peril/).

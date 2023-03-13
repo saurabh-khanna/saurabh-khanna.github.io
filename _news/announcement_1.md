@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-07
+date: 2023-03-08
 inline: true
 ---
 
-Paper analyzing geographic, linguistic, and disciplinary bibliodiversity released. [Media coverage](https://blogs.lse.ac.uk/impactofsocialsciences/2023/02/07/beyond-web-of-science-and-scopus-there-is-already-an-open-bibliodiverse-world-of-research-we-ignore-it-at-our-peril/).
+Tech Ethics & Policy Fellowship awarded at The Stanford Institute for Human-Centered Artificial Intelligence. [More here.](https://hai.stanford.edu/news/stanford-names-12-tech-ethics-policy-fellows)
