@@ -23,7 +23,7 @@ I am a Junior Research Fellow at Pembroke College, University of Oxford. My rese
 
 - measuring 'incompleteness' in digital information and its implications for human behaviour
 - 'misinfotainment' and the blurring lines of entertainment and journalism
-- exploring diversity by gender, ethnicity, and age in: i) online job imagery, and ii) entertainment media
+- exploring inequalities by gender, ethnicity, and age in: i) online job imagery, and ii) entertainment media
 
 I received my PhD in education policy (minor in computer science) from Stanford University, where I was a [human-centered AI fellow](https://hai.stanford.edu/news/introducing-stanford-hais-new-graduate-student-fellows), a [stanford data science scholar](https://datascience.stanford.edu/about/people/data-science-scholars), and a William R and Sara Hart Kimball Fellow. My prior background spans computer science engineering (BS@BITS Pilani), economics (MA@Stanford), and education (MA@TISS).
 
