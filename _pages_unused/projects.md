@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: catalogue of current research projects
-nav: true
+nav: false
 display_categories: [academic, personal]
 horizontal: false
 order: 5
