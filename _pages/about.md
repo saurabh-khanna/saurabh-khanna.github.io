@@ -21,7 +21,7 @@ order: 1
 
 I am a Junior Research Fellow at Pembroke College, [University of Oxford](https://www.ox.ac.uk/). My research is aimed at understanding (and quantifying) the limits of human knowledge in an increasingly digitized world. Some of my ongoing projects include:
 
-- measuring 'incompleteness' in digital information and its implications for human behaviour
+- measuring 'incompleteness' in digital information and its behavioural effects
 - 'misinfotainment' and the blurring lines between evidence and entertainment
 - exploring inequalities in online occupation imagery and in entertainment media
 
