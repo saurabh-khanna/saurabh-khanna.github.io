@@ -25,6 +25,7 @@ I am a Junior Research Fellow at Pembroke College, [University of Oxford](https:
 - 'misinfotainment' and the blurring lines between evidence and entertainment
 - exploring inequalities in online occupation imagery and in entertainment media
 
-I received my PhD in education policy (minor in computer science) from [Stanford University](https://www.stanford.edu/), where I was a Human-centered AI Fellow, a Stanford Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans computer science engineering (BITS Pilani), economics (Stanford), and education (TISS). More [here](https://saurabh-khanna.github.io/assets/pdf/CV_Saurabh_Khanna.pdf).
+I received my PhD in education policy (minor in computer science) from [Stanford University](https://www.stanford.edu/), where I was a Human-centered AI Fellow, a Stanford Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans computer science engineering (BITS Pilani), economics (Stanford), and education (TISS). More
+<a href="/assets/pdf/CV_Saurabh_Khanna.pdf" target="_blank">here</a>.
 
-I am equally fond of exploring unorthodox films from diverse cultures, cooking experiments, stargazing, and playing sidekick to <a href="/assets/img/coffee.jpeg" target="_blank">this angel</a>.
+I am equally fond of exploring unorthodox films from diverse cultures, cooking experiments, and playing sidekick to <a href="/assets/img/coffee.jpeg" target="_blank">this angel</a>.
