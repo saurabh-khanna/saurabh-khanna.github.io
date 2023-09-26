@@ -23,8 +23,8 @@ I am a Junior Research Fellow at Pembroke College, [University of Oxford](https:
 
 - measuring 'incompleteness' in digital information and its implications for human behaviour
 - 'misinfotainment' and the blurring lines between evidence and entertainment
-- exploring inequalities by gender, ethnicity, and age in: i) online job imagery, and ii) entertainment media
+- exploring inequalities in online occupation imagery and in entertainment media
 
-I received my PhD in education policy (minor in computer science) from [Stanford University](https://www.stanford.edu/), where I was a Human-centered AI Fellow, a Stanford Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans computer science engineering (BITS Pilani), economics (Stanford), and education (TISS).
+I received my PhD in education policy (minor in computer science) from [Stanford University](https://www.stanford.edu/), where I was a Human-centered AI Fellow, a Stanford Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans computer science engineering (BITS Pilani), economics (Stanford), and education (TISS). More [here](https://saurabh-khanna.github.io/assets/pdf/CV_Saurabh_Khanna.pdf).
 
 I am equally fond of exploring unorthodox films from diverse cultures, cooking experiments, stargazing, and playing sidekick to <a href="/assets/img/coffee.jpeg" target="_blank">this angel</a>.
