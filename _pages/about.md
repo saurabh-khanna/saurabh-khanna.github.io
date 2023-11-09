@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Pembroke College</p>
-    <p>St. Aldates, OX1 1DW</p>
-    <p>Oxford, UK</p> <br/><br/>
+    <p>University of Amsterdam</p>
+    <p>Nieuwe Achtergracht 166</p>
+    <p>1018 WV Amsterdam, NL</p> <br/><br/>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
