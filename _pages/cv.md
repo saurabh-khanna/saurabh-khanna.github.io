@@ -10,4 +10,4 @@ order: 2
 Current CV hosted <a href="/assets/pdf/CV_Saurabh_Khanna.pdf" target="_blank">here</a>.
 
 
-[Last updated: 26 September 2023]
+[Updated: November 2023]

@@ -10,6 +10,10 @@ order: 3
 
 &nbsp;
 
+Google Scholar page [here](https://scholar.google.com/citations?user=if4Y2B0AAAAJ).
+
+&nbsp;
+
 #### peer-reviewed papers
 
 <!-- _pages/publications.md -->
