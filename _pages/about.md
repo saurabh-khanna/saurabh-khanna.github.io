@@ -19,12 +19,13 @@ social: false  # includes social icons at the bottom of the page
 order: 1
 ---
 
-I am an assistant professor of communication science at the [University of Amsterdam](https://ascor.uva.nl/), and a junior research fellow at Pembroke College, [University of Oxford](https://www.ox.ac.uk/). My research is aimed at quantifying the limits of human knowledge in an increasingly digitized world. Some of my ongoing projects include:
+I am an assistant professor of communication science at the [University of Amsterdam](https://ascor.uva.nl/), and a research associate at Pembroke College, [University of Oxford](https://www.ox.ac.uk/). My research is aimed at quantifying the limits of human knowledge in an increasingly digitized world. Some of my ongoing projects include:
 
-- measuring diversity and incompleteness in information on the internet
-- 'misinfotainment' and the blurring lines between political and entertainment communication
-- studying inequalities in online occupation imagery and in entertainment media
+- quantifying diversity and incompleteness in information on the internet
+- studying diversity in global occupation imagery using Google Images and ILO reports
+- studying diversity in entertainment media using the IMDb corpus
 - scientometric analyses of communication and media studies
+- 'misinfotainment' and the blurring lines between political and entertainment communication
 
 I received my PhD in education policy (minor in computer science) from [Stanford University](https://www.stanford.edu/), where I was a Human-centered AI Fellow, a Stanford Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans computer science engineering (BITS Pilani), economics (Stanford), and education (TISS). More
 <a href="/assets/pdf/CV_Saurabh_Khanna.pdf" target="_blank">here</a>.
