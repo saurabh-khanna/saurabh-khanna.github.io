@@ -19,11 +19,11 @@ social: false  # includes social icons at the bottom of the page
 order: 1
 ---
 
-I am an assistant professor of communication science at the [University of Amsterdam](https://ascor.uva.nl/), and a junior research fellow at Pembroke College, [University of Oxford](https://www.ox.ac.uk/). My research is aimed at quantifying the limits of human knowledge in an increasingly digitized world. Some of my ongoing projects include:
+I am an assistant professor of communication science at the [University of Amsterdam](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html), and a research associate at Pembroke College, [University of Oxford](https://www.ox.ac.uk/). My research is aimed at quantifying the diversity and limits of human knowledge in an increasingly digitized world. Ongoing projects include:
 
-- quantifying diversity and incompleteness in information on the internet
+- developing methods to quantify diversity and incompleteness in digital information
+- studying diversity in entertainment media using IMDb and MovieDb corpora
 - studying diversity in global occupation imagery using Google Images and ILO reports
-- studying diversity in entertainment media using the IMDb corpus
 - scientometric analyses of communication and media studies
 - 'misinfotainment' and the blurring lines between political and entertainment communication
 
