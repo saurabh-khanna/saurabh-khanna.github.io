@@ -12,7 +12,7 @@ University of Amsterdam
 
 - Digital Analytics
 - Entertainment Communication
-- Big Data and Content Analysis
+- Computational Communication Science
 
 &nbsp;
 
