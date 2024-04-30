@@ -26,8 +26,8 @@ I am an Assistant Professor in Communication Science at the [University of Amste
     + invisibility in political media using news corpora
     + invisibility in scientific knowledge using Dimensions and OpenAlex
 - PictoPercept: innovative bias assessment through pairwise visual wikisurveys
-- studying diversity in global occupation imagery using Google Images and ILO reports
-- scientometric analyses of communication and media studies
+- Studying diversity in global occupation imagery using Google Images and ILO reports
+- Scientometric analyses of communication and media studies
 
 
 I received my PhD in Education Policy (minor in Computer Science) from [Stanford University](https://www.stanford.edu/), where I was a Human-centered AI Fellow, a Stanford Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans Computer Science Engineering (BITS Pilani), Economics (Stanford), and Education (TISS). More
