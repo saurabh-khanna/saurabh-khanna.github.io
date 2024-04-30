@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 order: 1
 ---
 
-I am an Assistant Professor in Communication Science at the [University of Amsterdam](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html), and a Research Associate at the [University of Oxford](https://www.ox.ac.uk/) (Pembroke College). I leverage machine learning and information retrieval to study the diversity and limits of human knowledge in an increasingly digitized world. Ongoing projects include:
+I am an Assistant Professor in Communication Science at the [University of Amsterdam](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html), and a Research Associate at the [University of Oxford](https://www.pmb.ox.ac.uk/person/dr-saurabh-khanna) (Pembroke College). I leverage machine learning and information retrieval to study the diversity and limits of human knowledge in an increasingly digitized world. Ongoing projects include:
 
 - [The (In)visible Lab](https://theinvisiblelab.org/): developing methods to quantify diversity and invisibility in digital information
     + invisibility in entertainment media using film/tv/music corpora
