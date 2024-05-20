@@ -25,7 +25,7 @@ I am an Assistant Professor in Communication Science at the [University of Amste
     + invisibility in entertainment media using film/tv/music corpora
     + invisibility in political media using news corpora
     + invisibility in scientific knowledge using Dimensions and OpenAlex
-- PictoPercept: innovative bias assessment through pairwise visual wikisurveys
+- [PictoPercept](https://pictopercept.streamlit.app/): innovative bias assessment through pairwise visual wikisurveys
 - Studying diversity in global occupation imagery using Google Images and ILO reports
 - Scientometric analyses of communication and media studies
 
