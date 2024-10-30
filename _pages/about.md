@@ -19,13 +19,11 @@ social: false  # includes social icons at the bottom of the page
 order: 1
 ---
 
-I am an Assistant Professor in Communication Science at the [University of Amsterdam](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html), and a Research Fellow at the [University of Oxford](https://www.pmb.ox.ac.uk/person/dr-saurabh-khanna) (Pembroke College). I leverage machine learning and information retrieval to study the diversity and limits of human knowledge in an increasingly digitized world. Ongoing projects include:
+I am an Assistant Professor in Communication Science at the [University of Amsterdam](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html), and a Research Fellow at the [University of Oxford](https://www.pmb.ox.ac.uk/person/dr-saurabh-khanna) (Pembroke College). I lead research at [theinvisiblelab.org](https://theinvisiblelab.org/) where we leverage machine learning and information retrieval to study both the diversity and the limits of human knowledge in an increasingly digitized world. Ongoing projects include:
 
-- [The (In)visible Lab](https://theinvisiblelab.org/): developing methods to quantify diversity and invisibility in digital information
-    + invisibility in entertainment media using IMDb and MovieDb corpora
-    + invisibility in political media using news corpora
-    + invisibility in scientific knowledge using Dimensions and OpenAlex
+- [(In)visible](https://theinvisiblelab.org/): developing methods to theorize, quantify, and boost invisibility in digital information
 - [PictoPercept](https://pictopercept.streamlit.app/): innovating bias assessment through pairwise visual wikisurveys
+- [Lost Without Translation](https://invisiblelang.streamlit.app/): estimating invisible languages on the Internet
 - Studying diversity in global occupation imagery using Google Images and ILO reports
 - Scientometric analyses of communication and media studies
 
