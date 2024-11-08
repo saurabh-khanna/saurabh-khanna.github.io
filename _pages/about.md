@@ -30,7 +30,6 @@ I am an Assistant Professor in Communication Science at the [University of Amste
 I received my PhD in Education Policy (minor in Computer Science) from [Stanford University](https://www.stanford.edu/), where I was a Human-centered AI Fellow, a Stanford Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans Computer Science Engineering (BITS Pilani), Economics (Stanford), and Education (TISS). More
 <a href="/assets/pdf/CV_Saurabh_Khanna.pdf" target="_blank">here</a>.
 
-I am fond of exploring unorthodox films from diverse cultures, cooking experiments, and playing sidekick to <a href="/assets/img/coffee.jpeg" style="color:#000000;" target="_blank">this angel</a>.
+I am fond of exploring unorthodox films from diverse cultures, plant-based cooking experiments, and playing sidekick to <a href="/assets/img/coffee.jpeg" target="_blank">this angel</a>.
 
 > Public office hours: [Book a time](https://outlook.office.com/bookwithme/user/4b902255be4b43aa96b3772ef17c15d3@uva.nl/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mlink)
-
