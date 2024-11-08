@@ -19,16 +19,18 @@ social: false  # includes social icons at the bottom of the page
 order: 1
 ---
 
-I am an Assistant Professor in Communication Science at the [University of Amsterdam](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html), and a Research Fellow at the [University of Oxford](https://www.pmb.ox.ac.uk/person/dr-saurabh-khanna) (Pembroke College). I lead research at [theinvisiblelab.org](https://theinvisiblelab.org/) where we leverage machine learning and information retrieval to study both the diversity and the limits of human knowledge in an increasingly digitized world. Ongoing projects include:
+I am an Assistant Professor in Communication Science at the [University of Amsterdam](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html), and a Research Fellow at the [University of Oxford](https://www.pmb.ox.ac.uk/person/dr-saurabh-khanna) (Pembroke College). I lead research at [theinvisiblelab.org](https://theinvisiblelab.org/) where we leverage machine learning and information retrieval to study both the diversity and the limits of human knowledge in an increasingly digitized world. A selection of ongoing projects include:
 
-- [(In)visible](https://theinvisiblelab.org/): developing methods to theorize, quantify, and boost invisibility in digital information
-- [PictoPercept](https://pictopercept.streamlit.app/): innovating bias assessment through pairwise visual wikisurveys
-- [Lost Without Translation](https://invisiblelang.streamlit.app/): estimating invisible languages on the Internet
-- Studying diversity in global occupation imagery using Google Images and ILO reports
-- Scientometric analyses of communication and media studies
-
+- [(In)visible](https://theinvisiblelab.org/): developing methods to theorize, quantify, and boost invisible information
+- [PictoPercept](https://pictopercept.streamlit.app/): capturing invisible biases through pairwise visual wikisurveys
+- [Lost Without Translation](https://invisiblelang.streamlit.app/): estimation and implications of invisible languages on the Internet
+- [Shadowbans](https://theinvisiblelab.org/): Computational prediction of shadowbans and their implications
+- [Beyond Words](https://theinvisiblelab.org/): Communication beyond the human species
 
 I received my PhD in Education Policy (minor in Computer Science) from [Stanford University](https://www.stanford.edu/), where I was a Human-centered AI Fellow, a Stanford Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans Computer Science Engineering (BITS Pilani), Economics (Stanford), and Education (TISS). More
 <a href="/assets/pdf/CV_Saurabh_Khanna.pdf" target="_blank">here</a>.
 
 I am fond of exploring unorthodox films from diverse cultures, cooking experiments, and playing sidekick to <a href="/assets/img/coffee.jpeg" style="color:#000000;" target="_blank">this angel</a>.
+
+> Public office hours: [Book a time](https://outlook.office.com/bookwithme/user/4b902255be4b43aa96b3772ef17c15d3@uva.nl/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mlink)
+
