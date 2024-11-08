@@ -32,4 +32,6 @@ I received my PhD in Education Policy (minor in Computer Science) from [Stanford
 
 I am fond of exploring unorthodox films from diverse cultures, plant-based cooking experiments, and playing sidekick to <a href="/assets/img/coffee.jpeg" target="_blank">this angel</a>.
 
-> Public office hours: [Book a time](https://outlook.office.com/bookwithme/user/4b902255be4b43aa96b3772ef17c15d3@uva.nl/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mlink)
+<br/>
+
+_Public office hours: [Book a time](https://outlook.office.com/bookwithme/user/4b902255be4b43aa96b3772ef17c15d3@uva.nl/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mlink)_
