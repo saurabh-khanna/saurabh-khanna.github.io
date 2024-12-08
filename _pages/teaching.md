@@ -11,8 +11,7 @@ order: 4
 University of Amsterdam
 
 - Digital Analytics
-- Entertainment Communication
-- Computational Communication Science
+- Computational Communication Science II
 
 &nbsp;
 
