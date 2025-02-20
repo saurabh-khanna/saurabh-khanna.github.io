@@ -33,6 +33,7 @@ Stanford University
 
 General Seminars and Workshops
 
+- Generative AI and Education, University of Amsterdam
 - [Leveraging Git for Research](https://github.com/saurabh-khanna/gse-git-workshop), Stanford Graduate School of Education
 - Assessing Fairness in Internet Search. Stanford Social Entrepreneurial Students’ Association
 - [Open-source tools for analyzing educational survey data](https://drive.google.com/file/d/1v2LayqsmzYo5fDvtEs9hS_Hr0W5d9sYc/view?usp=sharing). All India Council for Technical Education, Ministry of Human Resource Development (MHRD), Government of India
