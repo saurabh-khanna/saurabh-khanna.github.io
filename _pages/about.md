@@ -24,7 +24,7 @@ I am an Assistant Professor of Communication Science at the [University of Amste
 - [(In)visible](https://theinvisiblelab.org/): Developing methods to theorize, quantify, and boost invisible information
 - [PictoPercept](https://pictopercept.streamlit.app/): Capturing invisible biases through pairwise visual wikisurveys
 - [Lost Without Translation](https://invisiblelang.streamlit.app/): Estimation and implications of invisible languages on the Internet
-- [Shadowbans](https://theinvisiblelab.org/): Computational prediction of shadowbans and their implications
+- [Shadowbans](https://github.com/theinvisiblelab/shadowbans): Computational prediction of shadowbans and their implications
 - [Beyond Words](https://theinvisiblelab.org/): Communication beyond the human species
 
 I received my PhD in Education Policy [minor in Computer Science] from [Stanford University](https://www.stanford.edu/), where I was a Human-centered AI Fellow, a Stanford Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans Computer Science Engineering [BITS Pilani], Economics [Stanford], and Education [TISS]. More <a href="/assets/pdf/CV_Saurabh_Khanna.pdf" target="_blank">here</a>.
