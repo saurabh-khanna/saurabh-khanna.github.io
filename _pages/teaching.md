@@ -4,24 +4,20 @@ permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-University of Amsterdam
+**University of Amsterdam**
 
 - Digital Analytics
 - Computational Communication Science II
 
-&nbsp;
-
-University of Oxford
+**University of Oxford**
 
 - Computer Science for Social Good
 - Advanced Calculus and Real Analysis
 
-&nbsp;
-
-Stanford University
+**Stanford University**
 
 - [EDUC 306Y](https://explorecourses.stanford.edu/search?q=educ306y&view=catalog&page=0&filter-coursestatus-Active=on&collapse=&academicYear=20212022), Seminar on Education and Economic Development
 - [SOC 302B](https://explorecourses.stanford.edu/search?q=soc+302b&view=catalog&page=0&filter-coursestatus-Active=on&collapse=&academicYear=20212022), Introduction to Education Data Science: Data Analysis
@@ -30,7 +26,7 @@ Stanford University
 
 &nbsp;
 
-General Seminars and Workshops
+**General Seminars and Workshops**
 
 - Generative AI and Education, University of Amsterdam
 - [Leveraging Git for Research](https://github.com/saurabh-khanna/gse-git-workshop), Stanford Graduate School of Education
