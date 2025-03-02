@@ -1,14 +1,11 @@
-github_users:
-  - saurabh-khanna
-  - theinvisiblelab
+# github_users:
+#   - saurabh-khanna
+#   - theinvisiblelab
 
 repo_description_lines_max: 2
 
-# github_repos:
-#   - alshedivat/al-folio
-#   - jekyll/jekyll
-#   - twbs/bootstrap
-#   - jquery/jquery
-#   - FortAwesome/Font-Awesome
-#   - mathjax/MathJax
-#   - jpswalsh/academicons
+github_repos:
+  - theinvisiblelab/invisible
+  - theinvisiblelab/pictopercept
+  - theinvisiblelab/shadowbans
+  - theinvisiblelab/invisible-books
