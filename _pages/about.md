@@ -6,7 +6,7 @@ subtitle: Assistant Professor of Communication Science, University of Amsterdam
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 8.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Amsterdam</p>
