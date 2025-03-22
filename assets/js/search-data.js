@@ -451,6 +451,13 @@ ninja.data = [{
           window.open("mailto:%73%61%75%72%61%62%68.%6B%68%61%6E%6E%61@%75%76%61.%6E%6C", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=if4Y2B0AAAAJ", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -472,11 +479,11 @@ ninja.data = [{
           window.open("/feed.xml", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=if4Y2B0AAAAJ", "_blank");
+          window.open("https://twitter.com/saurabhk2701", "_blank");
         },
       },{
       id: 'light-theme',
