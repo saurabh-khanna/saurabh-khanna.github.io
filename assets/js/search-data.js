@@ -472,11 +472,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/saurabh90", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0002-9346-4896", "_blank");
         },
       },{
         id: 'social-stackoverflow',
