@@ -479,6 +479,13 @@ ninja.data = [{
           window.open("/feed.xml", "_blank");
         },
       },{
+        id: 'social-stackoverflow',
+        title: 'Stackoverflow',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://stackoverflow.com/users/12385481", "_blank");
+        },
+      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
