@@ -34,7 +34,7 @@ rss_icon: false # set to true to show the RSS icon
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
-# stackoverflow_id: # your stackoverflow id
+stackoverflow_id: 12385481 # your stackoverflow id
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
