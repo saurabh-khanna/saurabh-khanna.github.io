@@ -12,14 +12,10 @@ University of Amsterdam
 - Digital Analytics
 - Computational Communication Science II
 
-&nbsp;
-
 University of Oxford
 
 - Computer Science for Social Good
 - Advanced Calculus and Real Analysis
-
-&nbsp;
 
 Stanford University
 
@@ -27,8 +23,6 @@ Stanford University
 - [SOC 302B](https://explorecourses.stanford.edu/search?q=soc+302b&view=catalog&page=0&filter-coursestatus-Active=on&collapse=&academicYear=20212022), Introduction to Education Data Science: Data Analysis
 - [EDUC 306A](https://explorecourses.stanford.edu/search?q=educ306a&view=catalog&page=0&filter-coursestatus-Active=on&collapse=&academicYear=20212022), Economics of Education in the Global Economy
 - [EDUC 200A](https://explorecourses.stanford.edu/search?q=educ200a&view=catalog&page=0&filter-coursestatus-Active=on&collapse=&academicYear=20202021), Introduction to Data Analysis and Interpretation
-
-&nbsp;
 
 General Seminars and Workshops
 
