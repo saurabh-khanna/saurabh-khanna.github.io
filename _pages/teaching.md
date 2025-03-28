@@ -15,7 +15,7 @@ University of Amsterdam
 University of Oxford
 
 - Computer Science for Social Good
-- Advanced Calculus and Real Analysis
+- Advanced Calculus
 
 Stanford University
 
