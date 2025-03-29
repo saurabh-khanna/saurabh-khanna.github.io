@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>University of Amsterdam</p>
     <p>Nieuwe Achtergracht 166</p>
-    <p>1018 WV Amsterdam, NL</p>
+    <p>1018 WV Amsterdam, NL</p> <br/><br/>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
