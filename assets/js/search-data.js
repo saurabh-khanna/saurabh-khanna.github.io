@@ -444,6 +444,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("saurabhkhanna.bsky.social", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -463,13 +470,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/saurabh-khanna", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/saurabh90", "_blank");
         },
       },{
         id: 'social-orcid',
