@@ -32,6 +32,7 @@ I am an Assistant Professor of Communication Science at the [University of Amste
 - Developing methods to theorize, quantify, and boost [invisible information](https://theinvisiblelab.org/)
 - [PictoPercept](https://pictopercept.streamlit.app/): Capturing invisible biases through pairwise visual wikisurveys
 - [Lost Without Translation](https://invisiblelang.streamlit.app/): Estimation and implications of invisible languages on the Internet
+- [Facemeasure](https://facemeasure.com/): Democratizing facial measurements for researchers
 - [Shadowbans](https://github.com/theinvisiblelab/shadowbans): Computational prediction of shadowbans and their implications
 - [Beyond Words](https://theinvisiblelab.org/): Communication beyond the human species
 
