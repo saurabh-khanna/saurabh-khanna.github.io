@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computational Social Scientist | University of Amsterdam
+subtitle: Computational Social Scientist
 
 profile:
   align: right
