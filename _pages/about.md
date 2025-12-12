@@ -30,8 +30,8 @@ latest_posts:
 I am an Assistant Professor of Communication Science at the [University of Amsterdam](https://www.uva.nl/en/profile/k/h/s.khanna/s.khanna.html), and a Research Fellow at the [University of Oxford](https://www.pmb.ox.ac.uk/person/dr-saurabh-khanna) [Pembroke College]. I lead research at [theinvisiblelab.org](https://theinvisiblelab.org/) where we leverage machine learning and information theory to study both the diversity and the limits of human knowledge in an increasingly digitized world. A selection of ongoing projects include:
 
 - Developing methods to theorize, quantify, and boost [invisible information](https://theinvisiblelab.org/)
-- [PictoPercept](https://pictopercept.streamlit.app/): Capturing invisible biases through pairwise visual wikisurveys
-- [Lost Without Translation](https://invisiblelang.streamlit.app/): Estimation and implications of invisible languages on the Internet
+- [PictoPercept](https://pictopercept.ai/): Capturing invisible biases through pairwise visual wikisurveys
+- [Lost Without Translation](https://theinvisiblelab.org/languages): Estimation and implications of invisible languages on the Internet
 - [Facemeasure](https://facemeasure.com/): Democratizing facial measurements for researchers
 - [Shadowbans](https://github.com/theinvisiblelab/shadowbans): Computational prediction of shadowbans and their implications
 
