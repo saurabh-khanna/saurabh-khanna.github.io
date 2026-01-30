@@ -1,4 +1,4 @@
 ---
 title: "Books"
-description: "Books by Professor Dr von Igelfeld's."
+description: "Book reviews and reading recommendations by Saurabh Khanna."
 ---

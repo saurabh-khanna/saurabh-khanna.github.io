@@ -1,14 +1,10 @@
 ---
-title: "Recalibrating the scope of scholarly publishing: A modest step in a vast decolonization process" 
-date: 2022-09-01
-tags: ["scholarly publishing","open access","global research","bibliometrics","OJS","decolonization"]
+title: "Recalibrating the Scope of Scholarly Publishing: A Modest Step in a Vast Decolonization Process" 
+date: 2022-10-01
+tags: ["scholarly publishing","open access","decolonization","global south","bibliometrics"]
 author: ["Saurabh Khanna","Jon Ball","Juan Pablo Alperin","John Willinsky"]
-description: "Analysis of 25,671 journals using Open Journal Systems demonstrates scholarly communication is more global than commonly credited. Published in Quantitative Science Studies, 2022." 
-summary: "This study analyzes journals largely absent from major indexes, demonstrating that scholarly communication is more of a global endeavor than commonly credited, with substantial representation from the Global South." 
-cover:
-    image: "paper3.png"
-    alt: "Global Scholarly Publishing"
-    relative: true
+description: "Analysis of 25,671 journals demonstrating that scholarly communication is more global than commonly credited. Published in Quantitative Science Studies, 2022." 
+summary: "This study analyzes over 25,000 journals using Open Journal Systems, revealing a diverse global scholarly publishing landscape largely absent from traditional journal counts." 
 editPost:
     URL: "https://doi.org/10.1162/qss_a_00228"
     Text: "Quantitative Science Studies"
@@ -20,7 +16,6 @@ editPost:
 ##### Download
 
 + [Paper](https://doi.org/10.1162/qss_a_00228)
-+ [PDF](https://direct.mit.edu/qss/article-pdf/doi/10.1162/qss_a_00228/2065347/qss_a_00228.pdf)
 
 ---
 
@@ -32,14 +27,16 @@ By analyzing 25,671 journals largely absent from common journal counts, as well 
 
 ##### Citation
 
-Khanna, Saurabh, Jon Ball, Juan Pablo Alperin, and John Willinsky. 2022. "Recalibrating the scope of scholarly publishing: A modest step in a vast decolonization process." *Quantitative Science Studies* 3 (4): 1-19. https://doi.org/10.1162/qss_a_00228.
+Khanna, Saurabh, Jon Ball, Juan Pablo Alperin, and John Willinsky. 2022. "Recalibrating the Scope of Scholarly Publishing: A Modest Step in a Vast Decolonization Process." *Quantitative Science Studies* 3(4): 1-19. https://doi.org/10.1162/qss_a_00228.
 
 ```latex
 @article{khannarecalibrate,
-author = {Khanna, Saurabh and Ball, Jon and Alperin, Juan Pablo and Willinsky, John},
-title = "{Recalibrating the scope of scholarly publishing: A modest step in a vast decolonization process}",
-journal = {Quantitative Science Studies},
-pages = {1-19},
-year = {2022},
-doi = {10.1162/qss_a_00228}}
+  author = {Khanna, Saurabh and Ball, Jon and Alperin, Juan Pablo and Willinsky, John},
+  title = {Recalibrating the scope of scholarly publishing: A modest step in a vast decolonization process},
+  journal = {Quantitative Science Studies},
+  pages = {1-19},
+  year = {2022},
+  doi = {10.1162/qss_a_00228}}
 ```
+
+---

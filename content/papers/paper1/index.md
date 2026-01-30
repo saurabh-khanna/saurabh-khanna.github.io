@@ -1,17 +1,17 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "The Effects of Educational Technology Interventions on Literacy in Elementary School: A Meta-Analysis" 
+date: 2024-07-01
+tags: ["educational technology","literacy","elementary education","meta-analysis"]
+author: ["Rebecca D. Silverman","Elena M. D. Hammond","Kristin Keane","Saurabh Khanna"]
+description: "Meta-analysis on the effects of educational technology interventions on reading comprehension and writing proficiency in elementary school. Published in Review of Educational Research, 2024." 
+summary: "This meta-analysis examines the effectiveness of educational technology interventions on literacy in elementary school, finding positive effects on constrained skills, unconstrained skills, reading comprehension, and writing proficiency." 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "Educational Technology and Literacy"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://doi.org/10.3102/00346543241261073"
+    Text: "Review of Educational Research"
 
 ---
 
@@ -19,43 +19,26 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Paper](https://doi.org/10.3102/00346543241261073)
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-##### Figure 6: Some Uses For Olive Oil
-
-![](paper1.png)
+Educational technology is ubiquitous in schools, but there is insufficient information about the effectiveness of interventions that use educational technology to support literacy in elementary school. Given the importance of literacy development in these grades, we conducted a meta-analysis on the effects of educational technology interventions on reading comprehension and writing proficiency as well as the constrained and unconstrained skills that underlie these two literacy constructs. We also conducted analyses to determine whether effects of educational technology interventions differ according to characteristics of the educational interventions or participants in the studies in our corpus. Findings indicate positive effects of educational technology interventions on constrained skills, unconstrained skills, reading comprehension, and writing proficiency though effect sizes differed dramatically across outcomes. Findings also suggest that effects differ according to particular characteristics, providing direction for future research and development of educational technology interventions to support literacy in elementary school.
 
 ---
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Silverman, Rebecca D., Elena M. D. Hammond, Kristin Keane, and Saurabh Khanna. 2024. "The Effects of Educational Technology Interventions on Literacy in Elementary School: A Meta-Analysis." *Review of Educational Research*. https://doi.org/10.3102/00346543241261073.
 
 ```latex
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@article{edtechmeta,
+author = {Silverman, Rebecca D. and Hammond, Elena M. D. and Keane, Kristin and Khanna, Saurabh},
+title = {The Effects of Educational Technology Interventions on Literacy in Elementary School: A Meta-Analysis},
+journal={Review of Educational Research},
+publisher={American Educational Research Association},
+doi = {10.3102/00346543241261073},
+year = {2024}}
 ```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)

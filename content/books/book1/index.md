@@ -1,17 +1,17 @@
 ---
-title: "Portugese Irregular Verbs" 
-date: 1997-01-01
-tags: ["Portugese","irregular verbs","philology"]
-author: ["Moritz-Maria von Igelfeld"]
-description: "This book discusses Portugese irregular verbs in great details."
-summary: "This book discusses Portugese irregular verbs in great details."
+title: "Machine Learning for Communication Scientists" 
+date: 2026-01-01
+tags: ["machine learning","communication science","open source","education"]
+author: ["Saurabh Khanna"]
+description: "An open-source web book introducing machine learning concepts and applications for communication scientists."
+summary: "A comprehensive, open-source guide to machine learning tailored for communication science researchers and practitioners."
 cover:
     image: "book1.png"
-    alt: "Portugese Irregular Verbs"
+    alt: "Machine Learning for Communication Scientists"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Regensburg University Press"
+    URL: "#"
+    Text: "Read the book"
 showToc: false
 disableAnchoredHeadings: false
 
@@ -19,59 +19,52 @@ disableAnchoredHeadings: false
 
 ---
 
-#### Description
+#### About This Book
 
-This book discusses Portugese irregular verbs in great details. It is the seminal work on Romance philology.[^1] The book is the result of years of research into the etymology and vagaries of Portuguese verbs.[^2] Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+*Machine Learning for Communication Scientists* is an open-source web book designed to introduce machine learning concepts, methods, and applications specifically tailored for researchers and practitioners in communication science.
 
-[^1]: The acknowledged aim of the book is to dwarf all other books in the field.
-[^2]: As a result of such intensive research, the book's length is almost twelve hundred pages.
+The book bridges the gap between technical machine learning literature and the practical needs of communication researchers, providing accessible explanations, real-world examples, and hands-on tutorials.
 
 ---
 
-#### Praise
+#### Key Topics
 
-> There is nothing more to be said on this subject. Nothing – Anonymous reviewer
-
----
-
-#### View
-
-+ [Chapter 1: History of the Portuguese language](chapter1.pdf)
-+ [Chapter 2: Review of regular verbs](chapter2.pdf)
-+ [Chapter 3: Analysis of irregular verbs](chapter3.pdf)
++ Foundations of machine learning for social science research
++ Text analysis and natural language processing
++ Image and video analysis for communication research
++ Network analysis and recommendation systems
++ Ethical considerations in computational communication research
++ Practical implementation with Python and R
 
 ---
 
-#### Excerpt from Chapter 1: Basic mathematical results from Portuguese philology
+#### Why This Book
 
+Machine learning is increasingly central to communication research, but existing resources often assume extensive programming or mathematical backgrounds. This book:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit $x\in \mathbb{N}$. Proin ac libero nec eros accumsan sagittis: $x^\ast = \max f(x)$. Fusce gravida $4 \ln(x+y) =4 \int \ln(x^2)dx$, lectus nec aliquet malesuada, augue dui lacinia velit, eget ullamcorper lorem lorem id turpis. Nam interdum est id venenatis fermentum: . Nullam fermentum, arcu eu luctus fermentum, felis orci pretium mi, eu bibendum ligula neque in metus. 
++ Uses communication research examples throughout
++ Emphasizes practical application over mathematical theory
++ Provides reproducible code and datasets
++ Addresses ethical and methodological considerations specific to communication science
++ Is freely available and community-driven
 
-$$1+\lambda\exp{\frac{\beta}{\alpha^2}} = \max_{t\in\mathbb{R}}(x(t)-y(t)+z(t)^2).$$
+---
 
-Nulla facilisi. Phasellus pharetra ligula sit amet diam viverra, sed scelerisque ligula cursus. Curabitur sit amet libero eu velit fringilla vulputate, $2\ln(x)$. Suspendisse potenti. Quisque imperdiet arcu ac nibh gravida, id posuere ligula efficitur. Curabitur posuere, dui at finibus viverra, felis justo pulvinar urna, id finibus sem purus eget orci.
+#### Status
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris vel neque at lorem fermentum tincidunt: $<x,y> = 2x^2 + \mathcal{A}$. Etiam volutpat, risus at aliquet varius, sapien quam vulputate lectus, id ultrices lorem arcu ut magna. Sed malesuada scelerisque dignissim. Aliquam erat volutpat. Proin efficitur tincidunt nulla, a convallis magna cursus sit amet. Donec eget convallis libero. Pellentesque tincidunt nunc et nisi lacinia, quis auctor lorem suscipit: 
-
-$$2\exp(\gamma) = 2\exp(\zeta/3) = 2\exp(\kappa).$$
-
-Praesent at eros a sapien sagittis scelerisque at a nulla. Aliquam erat volutpat. In hac habitasse platea dictumst. Phasellus congue vestibulum nisl, vitae accumsan est. Suspendisse potenti. In ut nunc ac quam congue cursus. Duis fermentum hendrerit eros, ut auctor velit pharetra ut. Nulla facilisi. Cras at convallis purus, a convallis mauris. Donec id est vel ipsum hendrerit laoreet.
+This book is currently under development as an open-source project. Contributions, feedback, and suggestions are welcome.
 
 ---
 
 #### Citation
 
-Moritz-Maria von Igelfeld. 1997. *Portugese Irregular Verbs*. Regensburg, Germany: Regensburg University Press. http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs.
+Puzo, Mario. 1969. *The Godfather*. New York: G.P. Putnam's Sons.
 
 ```latex
-@book{I97,
-author = {Moritz-Maria von Igelfeld},
-year = {1997},
-title = {Portugese Irregular Verbs},
-publisher = {Regensburg University Press},
-address = {Regensburg, Germany},
-url = {http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs}}
+@book{puzo1969godfather,
+author = {Mario Puzo},
+year = {1969},
+title = {The Godfather},
+publisher = {G.P. Putnam's Sons},
+address = {New York}}
 ```

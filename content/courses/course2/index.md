@@ -1,17 +1,17 @@
 ---
-title: "Profanity in Early Irish" 
-date: 1990-06-16
-tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
-author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This undergraduate course discusses profanity in Early Irish." 
-summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
+title: "Computational Communication Science II" 
+date: 2024-01-15
+tags: ["computational methods","machine learning","natural language processing","communication science","data science"]
+author: "Saurabh Khanna"
+description: "Advanced course on computational methods for communication research, focusing on machine learning and natural language processing." 
+summary: "This graduate course covers advanced computational methods for communication science research, including machine learning, natural language processing, and network analysis." 
 cover:
     image: "course2.png"
-    alt: "Figure caption"
+    alt: "Computational Communication Science"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+    URL: "https://www.uva.nl"
+    Text: "University of Amsterdam"
 showToc: true
 disableAnchoredHeadings: false
 
@@ -19,85 +19,115 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This course covers topics related to profanity in Early Irish. It relates such profanity to profanity in modern English:
+This advanced course introduces students to cutting-edge computational methods for communication research. Students learn to apply machine learning and natural language processing techniques to analyze large-scale communication data:
 
-+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-+ Sed fermentum turpis nec dolor dapibus, ac commodo enim consequat. 
-+ Suspendisse potenti. Integer ac mauris nec ligula finibus ullamcorper. 
-+ Phasellus rutrum enim in nunc aliquam mollis. 
-+ Vivamus auctor nunc ac augue dapibus, in fermentum enim hendrerit. Duis et ultrices sem, eget efficitur lacus. 
++ Machine learning fundamentals and applications
++ Natural language processing for text analysis
++ Network analysis for social media data
++ Computer vision for visual content analysis
++ Ethical considerations in computational research
 
-##### Introductory video
+The course emphasizes hands-on experience with Python programming and real-world datasets.
 
-+ [Lecture video 0](https://youtu.be/8ihJsf-AXdA)
+##### Prerequisites
 
-##### Introductory readings
++ Basic programming knowledge (Python preferred)
++ Fundamental statistics and research methods
++ Computational Communication Science I or equivalent
 
-+ [Paper 1](https://pascalmichaillat.org/13.pdf)
-+ [Paper 2](https://pascalmichaillat.org/14.pdf)
+##### Course Materials
+
++ Python programming environment (Jupyter notebooks)
++ Access to computational resources
++ Selected research papers and tutorials
 
 ---
 
-## Part 1: Overview of Early Irish
+## Part 1: Machine Learning Fundamentals
 
-This section reviews the Early Irish language. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur.
+This section introduces core machine learning concepts and algorithms relevant to communication research, including supervised and unsupervised learning methods.
 
-##### Lecture videos
+##### Topics Covered
 
-+ [Lecture video 1](https://youtu.be/X_mwtm3inEw)
-+ [Lecture video 2](https://youtu.be/cFdwOwY2l-A)
++ Introduction to machine learning paradigms
++ Supervised learning: classification and regression
++ Unsupervised learning: clustering and dimensionality reduction
++ Model evaluation and validation
++ Feature engineering for communication data
 
-##### Lecture notes
+##### Lecture Materials
 
-+ [Lecture notes 1](notes1.pdf) – Concise overview of early Irish
-+ [Lecture notes 2](notes2.pdf) – Complete and detailed overview of early Irish
++ Introduction to scikit-learn and machine learning pipelines
++ Working with text and media data
++ Cross-validation and hyperparameter tuning
+
+##### Practical Exercises
+
++ Classifying news articles by topic
++ Predicting engagement metrics for social media posts
++ Clustering communication patterns
 
 ##### Readings
 
-+ [Paper 3](https://pascalmichaillat.org/6.pdf) ([online appendix](https://pascalmichaillat.org/6a.pdf))
-+ [Paper 4](https://pascalmichaillat.org/8.pdf) ([online appendix](https://pascalmichaillat.org/8a.pdf))
-+ [Paper 5](https://pascalmichaillat.org/9.pdf) ([online appendix](https://pascalmichaillat.org/9a.pdf))
++ Selected chapters from "Introduction to Statistical Learning"
++ Recent papers on machine learning in communication research
 
 ---
 
-## Part 2: Profanity in Indo-European Languages
+## Part 2: Natural Language Processing
 
-This section introduces profanity in Indo-European languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua:
+This section covers natural language processing techniques for analyzing textual communication data, from basic text preprocessing to advanced deep learning models.
 
-> Maecenas quis ex nec tortor pulvinar tristique. Morbi eget massa nec quam interdum posuere. Vestibulum lobortis auctor massa, sed hendrerit risus malesuada eu. Fusce nec metus ligula. Donec in mauris dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris vestibulum erat nec odio tincidunt, vitae laoreet mi tempor.
+##### Topics Covered
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris vestibulum erat nec odio tincidunt, vitae laoreet mi tempor. Quisque id eros sit amet enim tempor pellentesque. Suspendisse tincidunt risus a vehicula tincidunt. Nullam sollicitudin libero et ex cursus ultrices. Phasellus sit amet justo vitae nulla hendrerit pretium. Aenean quis velit eu risus pharetra vestibulum. Sed nec risus dolor. Vivamus vel leo ac ante pharetra auctor. Curabitur eleifend sapien non nisl varius, in hendrerit ipsum vehicula. Sed non justo sit amet nisi pharetra fermentum.
++ Text preprocessing and representation
++ Sentiment analysis and opinion mining
++ Topic modeling (LDA, NMF)
++ Word embeddings and semantic similarity
++ Transformer models and large language models
 
-##### Lecture videos
+##### Practical Applications
 
-+ [Lecture video 3](https://youtu.be/GfpKnLDTwyM)
-+ [Lecture video 4](https://youtu.be/UHnSkIZcjBs)
++ Analyzing sentiment in social media discussions
++ Discovering topics in news corpora
++ Measuring semantic similarity across texts
++ Fine-tuning pre-trained language models
 
-##### Compulsory reading
+##### Tools and Libraries
 
-+ [Paper 6](https://pascalmichaillat.org/7.pdf)
++ NLTK, spaCy, and Gensim
++ Hugging Face Transformers
++ OpenAI API and other LLM tools
 
-##### Optional readings
+##### Readings
 
-+ [Paper 7](https://pascalmichaillat.org/15.pdf)
-+ [Paper 8](https://pascalmichaillat.org/16.pdf)
-+ [Paper 9](https://pascalmichaillat.org/17.pdf)
-
-##### Homework
-
-+ [Problem set on profanity in Indo-European languages](problemset.pdf)
++ Selected chapters from "Speech and Language Processing"
++ Recent papers on NLP applications in communication
 
 ---
 
-## Part 3: The originality of profanity in Early Irish
+## Part 3: Advanced Topics and Research Applications
 
-This section turns to the various elements that make profanity in Early Irish so original. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This section explores specialized computational methods and their applications in communication research, including network analysis, computer vision, and ethical considerations.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+##### Topics Covered
+
++ Social network analysis
++ Computer vision for image and video analysis
++ Agent-based modeling
++ Computational research ethics and bias
++ Reproducibility and open science practices
+
+##### Final Project
+
+Students design and execute a computational communication research project, applying methods learned throughout the course to address a communication research question.
+
+##### Project Requirements
+
++ Research proposal with clear hypotheses
++ Data collection and preprocessing
++ Application of appropriate computational methods
++ Written report and presentation of findings
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ##### Lecture videos

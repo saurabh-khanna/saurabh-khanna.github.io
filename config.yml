@@ -12,25 +12,25 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
+        - name: Lab
+          url: https://theinvisiblelab.org/
+          weight: 1
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Books
+          url: books/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        - name: Teaching
+          url: courses/
+          weight: 4
+        - name: CV
+          url: cv.pdf
+          weight: 5
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Saurabh Khanna's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: Saurabh Khanna
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,59 +54,50 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Saurabh Khanna
+          subtitle: "I am an Assistant Professor of Communication Science at the University of Amsterdam, and a Research Fellow at the University of Oxford. I lead research on invisible information, studying the diversity and limits of human knowledge in an increasingly digitized world. <div style='margin-bottom: 0.5em;'></div> I received my PhD in Education Policy & Computer Science from Stanford University, where I was a Human-centered AI Fellow, a Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans Economics [Stanford], Computer Science Engineering [BITS Pilani], and Education [TISS]."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: Lab
+              url: https://theinvisiblelab.org/
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
             - name: Books
               url: books/
-            - name: Courses
+            - name: Teaching
               url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: CV
+              url: cv.pdf
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:s.khanna@uva.nl
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: mailto:saurabh.khanna@uva.nl
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=if4Y2B0AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://github.com/saurabh-khanna
+        - name: ORCID
+          url: https://orcid.org/0000-0002-9346-4896
+        - name: Stack Overflow
+          url: https://stackoverflow.com/users/12385481
 
     assets:
         disableScrollBarStyle: true
+        favicon: "favicon.svg"
     cover:
-        hiddenInList: false
+        hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
+      text: "Saurabh Khanna"
+      icon: favicon.svg
       iconHeight: 18
 
 markup:

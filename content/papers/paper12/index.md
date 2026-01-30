@@ -1,14 +1,10 @@
 ---
 title: "Job Training, English Language Skills, and Employability: Evidence from an Experiment in Urban India" 
 date: 2024-01-01
-tags: ["labor economics","education","English language","India","field experiment","development economics"]
+tags: ["job training","English language","employability","India","randomized experiment","labor market"]
 author: ["Prashant Loyalka","Dinsha Mistree","Robert W. Fairlie","Saurabh Khanna"]
-description: "Experimental evidence on how English language training affects employability and wages in Delhi, India. Published in Economic Development and Cultural Change, 2024." 
-summary: "This large-scale randomized field experiment examines how job training emphasizing English language skills affects employability and wage outcomes for low-income individuals in Delhi, India." 
-cover:
-    image: "paper2.png"
-    alt: "Job Training and English Skills"
-    relative: true
+description: "Randomized field experiment examining the impact of English language skills training on employability in urban India. Published in Economic Development and Cultural Change, 2024." 
+summary: "This large-scale randomized experiment in Delhi demonstrates that job training emphasizing English language skills substantially increases employability and estimated wages for low-income individuals." 
 editPost:
     URL: "https://doi.org/10.1086/734458"
     Text: "Economic Development and Cultural Change"
@@ -35,9 +31,11 @@ Loyalka, Prashant, Dinsha Mistree, Robert W. Fairlie, and Saurabh Khanna. 2024. 
 
 ```latex
 @article{loyalka2024job,
-title={Job Training, English Language Skills, and Employability: Evidence from an Experiment in Urban India},
-author={Loyalka, Prashant and Mistree, Dinsha and Fairlie, Robert W. and Khanna, Saurabh},
-year={2024},
-journal={Economic Development and Cultural Change},
-doi={10.1086/734458}}
+  title={Job Training, English Language Skills, and Employability: Evidence from an Experiment in Urban India},
+  author={Loyalka, Prashant and Mistree, Dinsha and Fairlie, Robert W. and Khanna, Saurabh},
+  journal={Economic Development and Cultural Change},
+  year={2024},
+  doi={10.1086/734458}}
 ```
+
+---

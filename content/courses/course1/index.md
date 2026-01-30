@@ -1,31 +1,17 @@
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
-date: 2003-03-10
-aliases: 
-    - /courses/course2/slides4.pdf
-    - /courses/course2/slides1.pdf
-    - /courses/course2/slides3.pdf
-    - /courses/course2/slides2.pdf
-    - /courses/course2/notes3.pdf
-    - /courses/course2/notes4.pdf
-    - /courses/course2/ps3.pdf
-    - /courses/course2/ps4.pdf
-    - /courses/course1/quiz1.pdf
-    - /courses/course1/quiz2.pdf
-    - /courses/course2/quiz3.pdf
-    - /courses/course2/quiz4.pdf
-    - /courses/course1/ps1.pdf
-tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
-author: "Moritz-Maria von Igelfeld"
-description: "This graduate course presents classical results in Romance philology." 
-summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
+title: "Digital Analytics"
+date: 2024-09-01
+tags: ["digital analytics","data analysis","communication science","computational methods","web analytics"]
+author: "Saurabh Khanna"
+description: "This course introduces students to digital analytics and data-driven decision making in the digital age." 
+summary: "This course covers digital analytics methods and tools for understanding online behavior, measuring digital campaigns, and making data-driven decisions in communication contexts." 
 cover:
     image: "course1.png"
-    alt: "Villa of Reduced Circumstances"
+    alt: "Digital Analytics"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+    URL: "https://www.uva.nl"
+    Text: "University of Amsterdam"
 showToc: true
 disableAnchoredHeadings: false
 
@@ -33,71 +19,67 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions: 
+This course introduces students to digital analytics and the tools and methods used to understand online behavior and measure digital communication campaigns. Students learn to:
 
-+ Why are there irregular verbs? 
-+ How are Portuguese irregular verbs different from Spanish irregular verbs? 
-+ What is the role of Latin and Greek in these irregularities? 
-+ What about irregular verbs in other Romance languages?
-    + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. 
-    + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    + Excepteur sint occaecat cupidatat non proident.
-    
-Sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Collect and analyze digital data from various sources
++ Use analytics platforms and tools effectively
++ Interpret metrics and KPIs for digital communications
++ Make data-driven decisions in digital contexts
++ Understand privacy and ethical considerations in digital analytics
 
-## Part 1: Review of Romance languages
+The course combines theoretical foundations with practical applications using real-world datasets and tools.
 
-This section reviews Romance languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Part 1: Foundations of Digital Analytics
 
-##### Lecture videos
+This section introduces the fundamental concepts of digital analytics, including web analytics, social media analytics, and mobile analytics. Students learn about different types of digital data and how to collect and process them ethically.
 
-+ [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
-+ [Lecture video 2](https://youtu.be/8ihJsf-AXdA) – This is a another lecture video.
-+ [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
+##### Topics Covered
 
-##### Lecture notes
-
-+ [Lecture note 1](lecture1.pdf)
++ Introduction to digital analytics ecosystem
++ Web analytics fundamentals
++ Tracking and measurement frameworks
++ Data collection methods and tools
++ Privacy considerations and GDPR compliance
 
 ##### Readings
 
-+ [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read. (Further results are in the [online appendix](https://pascalmichaillat.org/1a.pdf).)
-+ [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
-+ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
++ Kaushik, A. (2009). Web Analytics 2.0: The Art of Online Accountability and Science of Customer Centricity
++ Selected chapters on digital measurement frameworks
 
-## Part 2: Portugese irregular verbs
+## Part 2: Analytics Platforms and Tools
 
-This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This section provides hands-on experience with major analytics platforms including Google Analytics, social media analytics tools, and data visualization software. Students work with real datasets to extract meaningful insights.
 
-##### Lecture videos
+##### Topics Covered
 
-+ [Lecture video 4](https://youtu.be/IZI0_WwIyb8) - Short overview of the Portugese language.
-+ [Lecture video 5](https://youtu.be/Qz7CCB1-gu8) - History of irregular verbs.
-+ [Lecture video 6](https://youtu.be/79MSNfp1rw0) - Main Portugese irregular verbs.
++ Google Analytics setup and configuration
++ Social media analytics (Twitter, Facebook, Instagram)
++ A/B testing and experimentation
++ Data visualization with Tableau/R/Python
++ Creating dashboards and reports
 
-##### Lecture notes
+##### Practical Exercises
 
-+ [Lecture note 2](lecture2.pdf)
++ Setting up and configuring analytics tracking
++ Analyzing website traffic patterns
++ Social media campaign analysis
++ Building interactive dashboards
 
-##### Readings
+## Part 3: Advanced Topics and Applications
 
-+ [Paper 4](https://pascalmichaillat.org/3.pdf) – This paper computes things. (Details about the simulations are presented in the paper's [online appendix](https://pascalmichaillat.org/3a.pdf).)
-+ [Paper 5](https://pascalmichaillat.org/5.pdf) – This paper proves things. (The paper's [online appendix](https://pascalmichaillat.org/5a.pdf) contains long proofs and extensions of the results.)
+This section covers advanced analytics techniques including predictive analytics, attribution modeling, and machine learning applications in digital contexts.
 
+##### Topics Covered
 
-## Part 3: Spanish irregular verbs
++ Attribution modeling
++ Predictive analytics for digital behavior
++ Machine learning for personalization
++ Campaign optimization
++ Real-time analytics
 
-This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+##### Final Project
 
-##### Lecture videos
-
-+ [Lecture video 7](https://youtu.be/pIS8-mXG1oY)
-+ [Lecture video 8](https://youtu.be/FUaeNM8_fxs)
-+ [Optional lecture video](https://youtu.be/xjHVrx7jfdY)
+Students complete a comprehensive digital analytics project analyzing real-world digital data and presenting actionable insights.
 
 ##### Basic readings
 

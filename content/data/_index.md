@@ -1,4 +1,4 @@
 ---
 title: "Data"
-description: "Datasets on various philological topics."
+description: "Research data and computational tools for communication science and education research."
 ---

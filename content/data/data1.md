@@ -1,13 +1,13 @@
 ---
-title: "List of Irregular Verbs Across Romance Languages" 
-date: 2013-03-07
-tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish","simulations","dataset","python"]
-author: ["Patrick Fitzcarron O'Leary","Florianus Prinzel","Walter Schoeffler-Henschell","Detlev Amadeus Unterholzer", "Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This dataset contains all irregular verbs in known Romance languages."
-summary: "This dataset contains all irregular verbs in known Romance languages."
+title: "Research Data and Computational Tools" 
+date: 2024-01-15
+tags: ["computational social science","open science","data","tools","research"]
+author: ["Saurabh Khanna"]
+description: "Open-source tools and datasets for computational communication science and education research."
+summary: "Resources and tools developed for studying digital communication, education, and computational social science."
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "GitHub repository"
+    URL: "https://github.com/saurabh-khanna"
+    Text: "GitHub profile"
 showToc: true
 disableAnchoredHeadings: false
 
@@ -15,89 +15,96 @@ disableAnchoredHeadings: false
 
 ## Overview
 
-This dataset contains all irregular verbs in [all known Romance languages](http://www.alexandermccallsmith.com/series/von-igelfeld-series)—including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This page provides access to open-source tools, datasets, and computational resources developed for research in computational communication science and education. These resources support transparency, reproducibility, and collaborative research.
 
 ---
 
-## View dataset
+## Research Tools
 
-+ Irregular verbs in Portugese: [data](https://github.com/pmichaillat/feru)
-+ Irregular verbs in Italian: [data](https://github.com/pmichaillat/unemployment-gap)
-+ Irregular verbs in French: [data](https://github.com/pmichaillat/job-rationing)
-+ Irregular verbs in Spanish: [data](https://github.com/pmichaillat/countercyclical-multiplier)
+### The Invisible Lab
+
+Research lab focusing on invisible information, knowledge diversity, and digital communication.
+
++ Website: [theinvisiblelab.org](https://theinvisiblelab.org/)
++ Research on invisible information and knowledge gaps
++ Tools for measuring information diversity
+
+### PictoPercept
+
+Capturing invisible biases through pairwise visual wikisurveys.
+
++ Website: [pictopercept.ai](https://pictopercept.ai/)
++ Visual perception research tool
++ Bias measurement through comparative judgments
+
+### Facemeasure
+
+Democratizing facial measurements for researchers.
+
++ Website: [facemeasure.com](https://facemeasure.com/)
++ Open-access facial measurement tool
++ Research applications in social perception
 
 ---
 
-## Source of data
+## GitHub Repositories
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Open-source code and replication materials available on GitHub:
 
++ [Shadowbans Detection](https://github.com/theinvisiblelab/shadowbans) - Computational prediction of shadowbans
++ [Research Code](https://github.com/saurabh-khanna) - Replication materials for published papers
++ [Teaching Materials](https://github.com/saurabh-khanna/gse-git-workshop) - Workshops and tutorials
 
 ---
 
-## Using data with Python
+## Data Sources
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Research projects often utilize:
 
-### Start Python:
++ Social media data (Twitter, Reddit, Facebook)
++ Educational assessment data
++ Digital analytics and web data
++ Survey and experimental data
++ Text corpora and linguistic datasets
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
+*Note: Specific datasets are shared alongside publications when permitted by data sharing agreements and IRB protocols.*
+
+---
+
+## Using Research Code
+
+Most research code is provided in Python and R. Basic workflow:
+
+### Python Environment Setup
 
 ```python
-import numpy as np
+# Create virtual environment
+python -m venv research_env
+source research_env/bin/activate
+
+# Install requirements
+pip install -r requirements.txt
+```
+
+### Running Analyses
+
+```python
 import pandas as pd
+import numpy as np
+from research_tools import analysis
+
+# Load data
+data = pd.read_csv('data/research_data.csv')
+
+# Run analysis
+results = analysis.run_analysis(data)
 ```
 
-### Open the file:
+---
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat `data.csv`.
+## Contact
 
-```python
-file_path = 'data.csv'
-with open(file_path, 'r') as file:
-```
-
-### Read data:
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur.
-
-```python
-    lines = file.readlines()
-```
-
-### Parse and process data:
-
-Duis aute `line_data` irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur `data.extend`.
-
-```python
-data = []
-for line in lines:
-    line_data = line.strip().split(',')  # Split the line into a list of values
-    line_data = [float(value) for value in line_data]  # Convert values to floats
-    data.extend(line_data)  # Extend the main list with values from the line
-```
-
-#### Compute summary statistics using NumPy:
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum: `data_array`. 
-
-```python
-data_array = np.array(data)  # Convert the list to a NumPy array
-mean = np.mean(data_array)
-median = np.median(data_array)
+For questions about data or tools, please contact: saurabh.khanna@uva.nl
 std_dev = np.std(data_array)
 min_value = np.min(data_array)
 max_value = np.max(data_array)
