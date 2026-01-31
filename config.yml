@@ -5,28 +5,22 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
-  pagerSize: 20
+  pagerSize: 100
 
 taxonomies:
     tag: tags
 
 menu:
     main:
-        - name: Lab
-          url: https://theinvisiblelab.org/
+        - name: Publications
+          url: publications/
           weight: 1
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Books
-          url: books/
-          weight: 3
         - name: Teaching
-          url: courses/
-          weight: 4
-        - name: CV
-          url: cv.pdf
-          weight: 5
+          url: teaching/
+          weight: 2
+        - name: Invisible Information Lab
+          url: https://theinvisiblelab.org/
+          weight: 3
 
 params:
     description: "This website hosts Saurabh Khanna's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -44,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["books","teaching","publications","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -55,39 +49,33 @@ params:
     profileMode:
           enabled: true
           title: Saurabh Khanna
-          subtitle: "I am an Assistant Professor of Communication Science at the University of Amsterdam, and a Research Fellow at the University of Oxford. I lead research on invisible information, studying the diversity and limits of human knowledge in an increasingly digitized world. <div style='margin-bottom: 0.5em;'></div> I received my PhD in Education Policy & Computer Science from Stanford University, where I was a Human-centered AI Fellow, a Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans Economics [Stanford], Computer Science Engineering [BITS Pilani], and Education [TISS]."
+          subtitle: "I am an Assistant Professor of Communication Science at the University of Amsterdam, and a Research Fellow at the University of Oxford. I lead research on the diversity and limits of human knowledge at the Invisible Information Lab. I received my PhD in Education Policy & Computer Science from Stanford University, where I was a Human-centered AI Fellow, a Data Science Scholar, and a William R and Sara Hart Kimball Fellow. My prior background spans Economics at Stanford, Computer Science at BITS Pilani, and Education at TISS."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Lab
-              url: https://theinvisiblelab.org/
-            - name: Papers
-              url: papers/
-            - name: Books
-              url: books/
+            - name: Publications
+              url: publications/
             - name: Teaching
-              url: courses/
-            - name: CV
-              url: cv.pdf
+              url: teaching/
+            - name: Invisible Information Lab
+              url: https://theinvisiblelab.org/
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
           url: mailto:saurabh.khanna@uva.nl
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=if4Y2B0AAAAJ
         - name: GitHub
           url: https://github.com/saurabh-khanna
         - name: ORCID
           url: https://orcid.org/0000-0002-9346-4896
-        - name: Stack Overflow
-          url: https://stackoverflow.com/users/12385481
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: https://outlook.office.com/bookwithme/user/4b902255be4b43aa96b3772ef17c15d3@uva.nl/meetingtype/RUUS252nbUSBC19Yq8fXyg2?anonymous&ismsaljsauthenabled&ep=mlink
 
     assets:
         disableScrollBarStyle: true
