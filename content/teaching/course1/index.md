@@ -1,10 +1,8 @@
 ---
 title: "Digital Analytics"
-date: 2025-02-01
+date: 2025-09-01
 tags: ["digital analytics","python","data analysis","communication science"]
-author: "Saurabh Khanna"
-description: "Hands-on course teaching Python-based data analysis for digital communication research." 
-summary: "This course provides hands-on training in Python programming and data analysis techniques for understanding digital communication phenomena." 
+summary: "The course aims to develop students’ knowledge, understanding, skills, and critical attitudes in the area of digital analytics for communication science and practice. Through hands-on tutorials and practical exercises, students will learn to collect, process, analyze, and visualize digital data using Python programming. Topics covered include Python fundamentals, data manipulation with Pandas, data understanding and privacy, advanced data analysis techniques, A/B testing and experimentation, big data and trace data collection, and large language models." 
 cover:
     image: "course1.png"
     alt: "Digital Analytics"
@@ -14,27 +12,15 @@ editPost:
     Text: "Course GitHub"
 showToc: false
 disableAnchoredHeadings: false
-
+hiddenInList: true
+hideMeta: true
 ---
 
-## Course Description
+##### Course Description
 
-This course provides hands-on training in Python programming and computational methods for digital analytics in communication research. Students learn to collect, process, and analyze digital data through weekly tutorials and practical exercises, covering topics from Python fundamentals to advanced analysis techniques including sentiment analysis, A/B testing, and social media data collection.
+The course aims to develop students’ knowledge, understanding, skills, and critical attitudes in the area of digital analytics for communication science and practice. Through hands-on tutorials and practical exercises, students will learn to collect, process, analyze, and visualize digital data using Python programming. Topics covered include Python fundamentals, data manipulation with Pandas, data understanding and privacy, advanced data analysis techniques, A/B testing and experimentation, big data and trace data collection, and large language models.
 
 [View Full Syllabus](https://github.com/uva-cw-digitalanalytics/2526s2)
-
----
-
-## Weekly Schedule
-
-| Week | Topic | Slides |
-|------|-------|--------|
-| 1 | Python Fundamentals & Getting Started | [Slides](slides1.pdf) |
-| 2 | Data Manipulation with Pandas | [Slides](slides2.pdf) |
-| 3 | Data Understanding & Privacy | [Slides](slides3.pdf) |
-| 4 | Advanced Data Analysis | [Slides](slides4.pdf) |
-| 5 | A/B Testing & Experimentation | [Slides](slides5.pdf) |
-| 6 | Social Media Data Collection | [Slides](slides6.pdf) |
 
 ---
 
