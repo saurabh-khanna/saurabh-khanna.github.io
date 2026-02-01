@@ -79,10 +79,10 @@ params:
           url: https://orcid.org/0000-0002-9346-4896
         - name: LinkedIn
           url: https://www.linkedin.com/in/saurabh90/
-        - name: Location
-          url: location/
         - name: Office Hours
           url: https://outlook.office.com/bookwithme/user/4b902255be4b43aa96b3772ef17c15d3@uva.nl/meetingtype/RUUS252nbUSBC19Yq8fXyg2?anonymous&ismsaljsauthenabled&ep=mlink
+        - name: Location
+          url: location/
 
     assets:
         disableScrollBarStyle: true
