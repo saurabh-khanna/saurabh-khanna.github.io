@@ -23,7 +23,7 @@ Nieuwe Achtergracht 166<br/>
 mapboxgl.accessToken = 'pk.eyJ1Ijoic2F1cmFiaGtoYW5uYSIsImEiOiJjbWRrYXp5bDcwcXR0MmpyYmZiNWwwanp2In0.tMkehA4OKoNvNWgNDwMtcg';
 const map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/mapbox/light-v11',
+  style: 'mapbox://styles/mapbox/standard',
   center: [4.910334877260152, 52.36314558301096],
   zoom: 15
 });
