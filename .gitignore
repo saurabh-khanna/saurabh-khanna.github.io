@@ -3,3 +3,4 @@ public/
 resources/
 oldcontent/
 .hugo_build.lock
+.DS_Store

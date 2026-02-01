@@ -5,7 +5,7 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
-  pagerSize: 100
+  pagerSize: 10
 
 taxonomies:
     tag: tags
@@ -18,9 +18,12 @@ menu:
         - name: Teaching
           url: teaching/
           weight: 2
+        - name: Code
+          url: https://github.com/saurabh-khanna
+          weight: 3
         - name: Invisible Information Lab
           url: https://theinvisiblelab.org/
-          weight: 3
+          weight: 4
 
 params:
     description: "This website hosts Saurabh Khanna's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -38,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","teaching","publications","data"]
+    MainSections: ["teaching","publications","code"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -58,6 +61,8 @@ params:
               url: publications/
             - name: Teaching
               url: teaching/
+            - name: Code
+              url: https://github.com/saurabh-khanna
             - name: Invisible Information Lab
               url: https://theinvisiblelab.org/
 
@@ -72,6 +77,8 @@ params:
           url: https://github.com/saurabh-khanna
         - name: ORCID
           url: https://orcid.org/0000-0002-9346-4896
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/saurabh90/
         - name: Location
           url: location/
         - name: Office Hours
