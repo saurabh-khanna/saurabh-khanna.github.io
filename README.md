@@ -1,1 +1,1 @@
-Personal website repository, live [here](https://saurabh-khanna.github.io/).
+Personal aacdemic website repository, live [here](https://saurabh-khanna.github.io/).

@@ -25,7 +25,7 @@ This page provides access to open-source tools, datasets, and computational reso
 
 Research lab focusing on invisible information, knowledge diversity, and digital communication.
 
-+ Website: [theinvisiblelab.org](https://theinvisiblelab.org/)
++ Website: [invisible.info](https://invisible.info/)
 + Research on invisible information and knowledge gaps
 + Tools for measuring information diversity
 

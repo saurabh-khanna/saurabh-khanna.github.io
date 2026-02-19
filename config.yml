@@ -22,7 +22,7 @@ menu:
           url: https://github.com/saurabh-khanna
           weight: 3
         - name: Invisible Information Lab
-          url: https://theinvisiblelab.org/
+          url: https://invisible.info/
           weight: 4
 
 params:
@@ -64,7 +64,7 @@ params:
             - name: Code
               url: https://github.com/saurabh-khanna
             - name: Invisible Information Lab
-              url: https://theinvisiblelab.org/
+              url: https://invisible.info/
 
     socialIcons:
         - name: CV
